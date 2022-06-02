@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EntropistA
 - 👀 I’m interested in Python Data Science
-- 🌱 I’m currently learning WebScraping
+- 🌱 I’m currently learning BootstrapStudio
 - 📫 How to reach me https://www.linkedin.com/in/adam-wilczy%C5%84ski-0897b520b/
 
 <!---
