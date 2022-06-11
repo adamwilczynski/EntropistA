@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EntropistA
 - 👀 I’m interested in Python Data Science
 - 🌱 I’m currently learning BootstrapStudio
-- 📫 How to reach me https://www.linkedin.com/in/adam-wilczy%C5%84ski-0897b520b/
+- 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
 <!---
 EntropistA/EntropistA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
