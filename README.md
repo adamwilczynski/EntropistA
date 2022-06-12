@@ -1,5 +1,7 @@
 👋 Hi, I’m @EntropistA
 
+🤫 Check my other account as well --> (A9C2)[https://github.com/a9c2]
+
 👀 I’m interested in Python and Data Science
 
 📚 I'm currently reading _Think Like a Programmer_ by V. Anton Spraul
