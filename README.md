@@ -10,7 +10,7 @@
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
-# My hard skills:
+# My hard skills
 
 ## Languages
 
@@ -27,7 +27,7 @@
 ### Query:
 - SQL
 
-## Python modules:
+## Python Modules
 
 ### Datascience:
 - pandas
@@ -44,7 +44,7 @@
 - GIT
 - GitHub
 
-## Software:
+## Software
 
 ### Data Science:
 - Jupyter Notebooks
