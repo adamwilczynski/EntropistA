@@ -33,12 +33,16 @@
 - pandas
 - mathplotlib
 
+### API:
+- FastAPI
+
 ### Back End:
 - Flask
 - Django
 
 ### Testing:
 - unittest
+- Selenium
 
 ### Version Control:
 - GIT
@@ -53,7 +57,6 @@
 
 ### Testing
 - Postman
-- Selenium
 
 
 <!---
