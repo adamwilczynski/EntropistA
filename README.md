@@ -10,6 +10,52 @@
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
+# My hard skills:
+
+## Languages
+
+### Programming:
+- Python3
+- C++
+- JavaScript
+
+### Markup:
+- HTML
+- CSS
+- Markdown
+
+### Query:
+- SQL
+
+## Python modules:
+
+### Datascience:
+- pandas
+- mathplotlib
+
+### Back End:
+- Flask
+- Django
+
+### Testing:
+- unittest
+
+### Version Control:
+- GIT
+- GitHub
+
+## Software:
+
+### Data Science:
+- Jupyter Notebooks
+- Microsoft Excel
+- Microsoft Access
+
+### Testing
+- Postman
+- Selenium
+
+
 <!---
 EntropistA/EntropistA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
