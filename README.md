@@ -5,8 +5,7 @@
 👀 I’m interested in Python and Data Science
 
 📚 I'm currently reading:
-- _Think Like a Programmer_ by V. Anton Spraul
-- _Flask Web Development_ by Miguel Grinberg
+- _Understanding Software_ by Max Kanat-Alexander
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
@@ -30,8 +29,11 @@
 ## Python Modules
 
 ### Datascience:
+- numpy
 - pandas
+- SciPy
 - mathplotlib
+- seaborn
 
 ### API:
 - FastAPI
