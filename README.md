@@ -34,6 +34,7 @@
 - SciPy
 - mathplotlib
 - seaborn
+- streamlit
 
 ### API:
 - FastAPI
