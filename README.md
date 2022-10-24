@@ -5,7 +5,7 @@
 👀 I’m interested in Python and Data Science
 
 📚 I'm currently reading:
-- _Understanding Software_ by Max Kanat-Alexander
+- _AI and Machine Learning for Coders_ by Laurence Moroney
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
