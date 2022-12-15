@@ -47,7 +47,10 @@
 - unittest
 - Selenium
 
-### Version Control:
+### Data Mining:
+- Scrapy
+
+## Version Control:
 - GIT
 - GitHub
 
