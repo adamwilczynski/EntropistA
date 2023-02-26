@@ -2,10 +2,10 @@
 
 🤫 Check my other account as well --> [A9C2](https://github.com/a9c2)
 
-👀 I’m interested in Python and Data Science
+👀 I’m interested in Python and Data Analysys.
 
 📚 I'm currently reading:
-- _AI and Machine Learning for Coders_ by Laurence Moroney
+- [_AI and Machine Learning for Coders_ by Laurence Moroney](https://www.goodreads.com/book/show/26171186-algorithms-in-a-nutshell)
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
@@ -15,8 +15,6 @@
 
 ### Programming:
 - Python3
-- C++
-- JavaScript
 
 ### Markup:
 - HTML
@@ -31,20 +29,11 @@
 ### Datascience:
 - numpy
 - pandas
-- SciPy
 - mathplotlib
 - seaborn
 - streamlit
 
-### API:
-- FastAPI
-
-### Back End:
-- Flask
-- Django
-
 ### Testing:
-- unittest
 - Selenium
 
 ### Data Mining:
