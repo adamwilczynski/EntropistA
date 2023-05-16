@@ -1,15 +1,15 @@
-👋 Hi, I’m @EntropistA
+👋 Hi, I’m Adam
 
 🤫 Check my other account as well --> [A9C2](https://github.com/a9c2)
 
-👀 I’m interested in Python and Data Analysys.
+👀 I’m interested in Python and Data Analysys
 
 📚 I'm currently reading:
 - [_AI and Machine Learning for Coders_ by Laurence Moroney](https://www.goodreads.com/book/show/26171186-algorithms-in-a-nutshell)
 
 📫 How to reach me https://www.linkedin.com/in/adam-wilczynski/
 
-# My hard skills
+# My favorite technologies
 
 ## Languages
 
@@ -33,11 +33,9 @@
 - seaborn
 - streamlit
 
-### Testing:
-- Selenium
-
 ### Data Mining:
 - Scrapy
+- Selenium
 
 ## Version Control:
 - GIT
@@ -49,10 +47,6 @@
 - Jupyter Notebooks
 - Microsoft Excel
 - Microsoft Access
-
-### Testing
-- Postman
-
 
 <!---
 EntropistA/EntropistA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
