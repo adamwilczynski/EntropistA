@@ -46,7 +46,6 @@
 ### Data Science:
 - Jupyter Notebooks
 - Microsoft Excel
-- Microsoft Access
 
 <!---
 EntropistA/EntropistA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
